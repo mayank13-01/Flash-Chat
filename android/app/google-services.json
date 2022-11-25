@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451252016028",
+    "project_id": "flash-chat-3e70e",
+    "storage_bucket": "flash-chat-3e70e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451252016028:android:88f2f8926eddafcb13ee59",
+        "android_client_info": {
+          "package_name": "com.mayank.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451252016028-mad0l44lv8rbv5vd9lp2fr8diaq0n40b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt8QduIPYfI58IIx57nHmrs3OTEVHtFrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451252016028-mad0l44lv8rbv5vd9lp2fr8diaq0n40b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
